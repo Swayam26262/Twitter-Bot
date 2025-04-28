@@ -42,4 +42,7 @@ charts/
 
 # Credentials
 credentials.json
-tokens.json 
+tokens.json
+
+# Content files
+content/ 
